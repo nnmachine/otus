@@ -1,4 +1,4 @@
-# 15.jpg
+# 16.jpg
 
 
 def solution(side: int):
